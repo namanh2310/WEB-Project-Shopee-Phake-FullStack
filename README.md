@@ -16,10 +16,10 @@ An ***e-commerce web application*** inspired from Shopee - a popular e-commerce 
 
 A project for our team to learn and practice on web application, specifically HTML, CSS, JavaScript, NodeJS - Express, database. Why e-commerce site? Because it's fun!
 
-**Task allocation for each team member:**
-- Nam Anh: front-end 
-- Hữu Luân: back-end 
-- Tú Anh: back-end 
+**Team member:**
+- Nam Anh
+- Hữu Luân
+- Tú Anh
 # II. Main Contents
 ## 1. Technology stack selection 
 
